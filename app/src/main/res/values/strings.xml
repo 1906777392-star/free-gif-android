@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FreeGif</string>
+    <string name="slogan">免费的 GIF 工具箱 · 无广告无会员</string>
+    <string name="video_to_gif">视频转 GIF</string>
+    <string name="video_to_gif_desc">选视频，调画质 / 时长 / 尺寸</string>
+    <string name="image_to_gif">图片转 GIF</string>
+    <string name="image_to_gif_desc">多张合成，调播放速度</string>
+    <string name="gallery">作品库</string>
+    <string name="gallery_desc">生成过的 GIF 都在这儿</string>
+    <string name="settings">设置</string>
+    <string name="settings_desc">默认画质、保存位置</string>
+    <string name="coming_soon">%1$s 正在做，下一版就好</string>
+</resources>
